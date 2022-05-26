@@ -1,2 +1,2 @@
-#!/root/bin/bash
-echo $whoami
+#!/bin/bash
+whoami
