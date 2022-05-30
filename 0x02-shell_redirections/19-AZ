@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'A''C' | tr 'Z' 'e'
+tr "Ac" "Ze"
