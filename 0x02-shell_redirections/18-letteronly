@@ -1,2 +1,2 @@
 #!/bin/bash
-grep --exclude=*[0-9] /etc/ssh/sshd_config
+grep [[:UPPER:]] --exclude=^[0-9]  /etc/ssh/sshd_config
