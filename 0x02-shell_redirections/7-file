@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\*\\\'\"Best School\"\'\\\*\$\?\*\*\*\*\*:)" | xargs -0 touch
+touch "\*\\\'\"Best School\"\'\\\*\$\?\*\*\*\*\*:)"
